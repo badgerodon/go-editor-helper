@@ -1,0 +1,6 @@
+[
+	{
+		"keys": ["super+alt+g"],
+		"command": "go_go_to_definition"
+	}
+]

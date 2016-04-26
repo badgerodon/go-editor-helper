@@ -1,0 +1,14 @@
+[
+	{
+		"caption": "Go: Format",
+		"command": "go_format"
+	},
+	{
+		"caption": "Go: Go To Definition",
+		"command": "go_go_to_definition"
+	},
+	{
+		"caption": "Go: Lint",
+		"command": "go_lint"
+	}
+]
